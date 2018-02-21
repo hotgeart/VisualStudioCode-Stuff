@@ -1,5 +1,4 @@
 # VisualStudioCode-Stuff
----
 
 Theme:
 
@@ -14,3 +13,13 @@ Code:
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [phpfmt - PHP formatter](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt)
+
+Pour activer l'autocompletion:
+
+*Preferences -> Settings*
+
+
+    "emmet.includeLanguages": {
+       "blade": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,

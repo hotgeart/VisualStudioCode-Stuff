@@ -13,3 +13,4 @@ Code:
 - [laravel-goto-controller](https://marketplace.visualstudio.com/items?itemName=stef-k.laravel-goto-controller)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [phpfmt - PHP formatter](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt)

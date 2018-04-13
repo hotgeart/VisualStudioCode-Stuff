@@ -9,6 +9,7 @@ Misc:
 
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 Code:
 
@@ -28,3 +29,12 @@ Pour activer l'autocompletion:
        "blade": "html"
     },
     "emmet.triggerExpansionOnTab": true,
+
+// indent-rainbow
+    "indentRainbow.colors": [
+        "rgba(255,98,107,0.3)",
+        "rgba(253,169,79,0.3)",
+        "rgba(255,222,0,0.3)",
+        "rgba(161,239,75,0.3)",
+        "rgba(80,224,224,0.3)"
+      ]

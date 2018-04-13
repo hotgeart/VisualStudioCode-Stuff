@@ -30,7 +30,8 @@ Pour activer l'autocompletion:
     },
     "emmet.triggerExpansionOnTab": true,
 
-// indent-rainbow
+    // indent-rainbow
+    
     "indentRainbow.colors": [
         "rgba(255,98,107,0.3)",
         "rgba(253,169,79,0.3)",

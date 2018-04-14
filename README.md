@@ -9,7 +9,6 @@ Misc:
 
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
-- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 Code:
 
